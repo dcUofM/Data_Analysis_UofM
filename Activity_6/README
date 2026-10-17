@@ -1,2 +1,5 @@
 This the activity 6 of the module #9 of Data Analysis in Geophysics 
 CERI UofM 
+
+The python code vertically_launched_object.py will generate a pdf with two graphs 
+the velocity and displacement of an object in motion at constant acceleration
